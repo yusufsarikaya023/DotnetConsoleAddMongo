@@ -1,0 +1,2472 @@
+[
+  {
+    "id": "725c6bf1-6ffc-4d41-aec7-d3763d906c77",
+    "country_name": "Afghanistan",
+    "iso2": "AF",
+    "iso3": "AFG",
+    "phone_code": "93",
+    "address_format": null,
+    "capital": "Kabul",
+    "currency": "AFN"
+  },
+  {
+    "id": "4af2ed09-926c-4d01-a01b-e980b6961844",
+    "country_name": "Aland Islands",
+    "iso2": "AX",
+    "iso3": "ALA",
+    "phone_code": "+358-18",
+    "address_format": null,
+    "capital": "Mariehamn",
+    "currency": "EUR"
+  },
+  {
+    "id": "399a5768-2542-465b-8daf-ffd12c59d2c2",
+    "country_name": "Albania",
+    "iso2": "AL",
+    "iso3": "ALB",
+    "phone_code": "355",
+    "address_format": null,
+    "capital": "Tirana",
+    "currency": "ALL"
+  },
+  {
+    "id": "ba440ab6-4db7-4ea6-b2b4-424a6d5faf70",
+    "country_name": "Algeria",
+    "iso2": "DZ",
+    "iso3": "DZA",
+    "phone_code": "213",
+    "address_format": null,
+    "capital": "Algiers",
+    "currency": "DZD"
+  },
+  {
+    "id": "7a74d045-959e-4aa2-ae74-8d6245e9a204",
+    "country_name": "American Samoa",
+    "iso2": "AS",
+    "iso3": "ASM",
+    "phone_code": "+1-684",
+    "address_format": null,
+    "capital": "Pago Pago",
+    "currency": "USD"
+  },
+  {
+    "id": "7ed34988-580c-4a31-9c4c-c9f1c1c070f6",
+    "country_name": "Andorra",
+    "iso2": "AD",
+    "iso3": "AND",
+    "phone_code": "376",
+    "address_format": null,
+    "capital": "Andorra la Vella",
+    "currency": "EUR"
+  },
+  {
+    "id": "c2684582-01ed-479d-97cc-b1e47e60817d",
+    "country_name": "Angola",
+    "iso2": "AO",
+    "iso3": "AGO",
+    "phone_code": "244",
+    "address_format": null,
+    "capital": "Luanda",
+    "currency": "AOA"
+  },
+  {
+    "id": "2a042c85-4a18-4c28-a42b-ccb0e1ee632d",
+    "country_name": "Anguilla",
+    "iso2": "AI",
+    "iso3": "AIA",
+    "phone_code": "+1-264",
+    "address_format": null,
+    "capital": "The Valley",
+    "currency": "XCD"
+  },
+  {
+    "id": "afeeb6c3-8eff-4760-a571-8da89f701422",
+    "country_name": "Antarctica",
+    "iso2": "AQ",
+    "iso3": "ATA",
+    "phone_code": "",
+    "address_format": null,
+    "capital": "",
+    "currency": ""
+  },
+  {
+    "id": "a1938f06-b008-4e5e-afe1-5322721090cb",
+    "country_name": "Antigua And Barbuda",
+    "iso2": "AG",
+    "iso3": "ATG",
+    "phone_code": "+1-268",
+    "address_format": null,
+    "capital": "St. John's",
+    "currency": "XCD"
+  },
+  {
+    "id": "1546a2f6-8050-4fc0-a2fa-6b5ec2cba5b7",
+    "country_name": "Argentina",
+    "iso2": "AR",
+    "iso3": "ARG",
+    "phone_code": "54",
+    "address_format": null,
+    "capital": "Buenos Aires",
+    "currency": "ARS"
+  },
+  {
+    "id": "3f180fa1-a0a5-4f62-be9d-c9e77c03c63c",
+    "country_name": "Armenia",
+    "iso2": "AM",
+    "iso3": "ARM",
+    "phone_code": "374",
+    "address_format": null,
+    "capital": "Yerevan",
+    "currency": "AMD"
+  },
+  {
+    "id": "76135ee0-fbd0-4554-9659-78f7a04cd384",
+    "country_name": "Aruba",
+    "iso2": "AW",
+    "iso3": "ABW",
+    "phone_code": "297",
+    "address_format": null,
+    "capital": "Oranjestad",
+    "currency": "AWG"
+  },
+  {
+    "id": "c3f56626-f6fc-4b62-8b65-ab4607576293",
+    "country_name": "Australia",
+    "iso2": "AU",
+    "iso3": "AUS",
+    "phone_code": "61",
+    "address_format": null,
+    "capital": "Canberra",
+    "currency": "AUD"
+  },
+  {
+    "id": "50ed2ae0-7dd5-4869-9470-85c30392097d",
+    "country_name": "Austria",
+    "iso2": "AT",
+    "iso3": "AUT",
+    "phone_code": "43",
+    "address_format": null,
+    "capital": "Vienna",
+    "currency": "EUR"
+  },
+  {
+    "id": "34b562c9-e5eb-4c37-ab2c-7e037e76eeb8",
+    "country_name": "Azerbaijan",
+    "iso2": "AZ",
+    "iso3": "AZE",
+    "phone_code": "994",
+    "address_format": null,
+    "capital": "Baku",
+    "currency": "AZN"
+  },
+  {
+    "id": "08277d0b-272a-4815-9fd7-878a17c44beb",
+    "country_name": "Bahamas The",
+    "iso2": "BS",
+    "iso3": "BHS",
+    "phone_code": "+1-242",
+    "address_format": null,
+    "capital": "Nassau",
+    "currency": "BSD"
+  },
+  {
+    "id": "ead3f976-9ec5-4284-b945-13bdcfc296af",
+    "country_name": "Bahrain",
+    "iso2": "BH",
+    "iso3": "BHR",
+    "phone_code": "973",
+    "address_format": null,
+    "capital": "Manama",
+    "currency": "BHD"
+  },
+  {
+    "id": "75903441-7556-4f99-afcc-6b71b4fab4ff",
+    "country_name": "Bangladesh",
+    "iso2": "BD",
+    "iso3": "BGD",
+    "phone_code": "880",
+    "address_format": null,
+    "capital": "Dhaka",
+    "currency": "BDT"
+  },
+  {
+    "id": "2019e54b-f4e0-462f-99c4-22479e70f66c",
+    "country_name": "Barbados",
+    "iso2": "BB",
+    "iso3": "BRB",
+    "phone_code": "+1-246",
+    "address_format": null,
+    "capital": "Bridgetown",
+    "currency": "BBD"
+  },
+  {
+    "id": "6c29d615-6a9f-4860-94f4-379860645c09",
+    "country_name": "Belarus",
+    "iso2": "BY",
+    "iso3": "BLR",
+    "phone_code": "375",
+    "address_format": null,
+    "capital": "Minsk",
+    "currency": "BYR"
+  },
+  {
+    "id": "1832f47f-1b79-42b3-b0f2-f526c7c2942c",
+    "country_name": "Belgium",
+    "iso2": "BE",
+    "iso3": "BEL",
+    "phone_code": "32",
+    "address_format": null,
+    "capital": "Brussels",
+    "currency": "EUR"
+  },
+  {
+    "id": "babf3850-3bf1-4a75-b6ad-a94d438be44a",
+    "country_name": "Belize",
+    "iso2": "BZ",
+    "iso3": "BLZ",
+    "phone_code": "501",
+    "address_format": null,
+    "capital": "Belmopan",
+    "currency": "BZD"
+  },
+  {
+    "id": "b14597b8-d7ec-4a13-a140-da8838b788da",
+    "country_name": "Benin",
+    "iso2": "BJ",
+    "iso3": "BEN",
+    "phone_code": "229",
+    "address_format": null,
+    "capital": "Porto-Novo",
+    "currency": "XOF"
+  },
+  {
+    "id": "d93f8875-b4a5-4033-9622-f99dbaad0af6",
+    "country_name": "Bermuda",
+    "iso2": "BM",
+    "iso3": "BMU",
+    "phone_code": "+1-441",
+    "address_format": null,
+    "capital": "Hamilton",
+    "currency": "BMD"
+  },
+  {
+    "id": "499a1af7-57bf-4cd4-9267-33aa8ad94a73",
+    "country_name": "Bhutan",
+    "iso2": "BT",
+    "iso3": "BTN",
+    "phone_code": "975",
+    "address_format": null,
+    "capital": "Thimphu",
+    "currency": "BTN"
+  },
+  {
+    "id": "8e89eb94-ec75-4430-97fb-0b0b4e52126e",
+    "country_name": "Bolivia",
+    "iso2": "BO",
+    "iso3": "BOL",
+    "phone_code": "591",
+    "address_format": null,
+    "capital": "Sucre",
+    "currency": "BOB"
+  },
+  {
+    "id": "1945cfaf-153e-4718-9ed6-3323183baf18",
+    "country_name": "Bosnia and Herzegovina",
+    "iso2": "BA",
+    "iso3": "BIH",
+    "phone_code": "387",
+    "address_format": null,
+    "capital": "Sarajevo",
+    "currency": "BAM"
+  },
+  {
+    "id": "e3addb56-f469-4c16-aeac-d166e5a48f7c",
+    "country_name": "Botswana",
+    "iso2": "BW",
+    "iso3": "BWA",
+    "phone_code": "267",
+    "address_format": null,
+    "capital": "Gaborone",
+    "currency": "BWP"
+  },
+  {
+    "id": "977f9534-30c9-4a00-ba61-77cce2a4954b",
+    "country_name": "Bouvet Island",
+    "iso2": "BV",
+    "iso3": "BVT",
+    "phone_code": "",
+    "address_format": null,
+    "capital": "",
+    "currency": "NOK"
+  },
+  {
+    "id": "7546a9d2-9bef-4cf4-b562-aaa975977da1",
+    "country_name": "Brazil",
+    "iso2": "BR",
+    "iso3": "BRA",
+    "phone_code": "55",
+    "address_format": null,
+    "capital": "Brasilia",
+    "currency": "BRL"
+  },
+  {
+    "id": "71b6ef45-69f0-428a-a4ae-ca5561077b31",
+    "country_name": "British Indian Ocean Territory",
+    "iso2": "IO",
+    "iso3": "IOT",
+    "phone_code": "246",
+    "address_format": null,
+    "capital": "Diego Garcia",
+    "currency": "USD"
+  },
+  {
+    "id": "9fbb05c9-4127-4d89-ab2e-9084bb93f942",
+    "country_name": "Brunei",
+    "iso2": "BN",
+    "iso3": "BRN",
+    "phone_code": "673",
+    "address_format": null,
+    "capital": "Bandar Seri Begawan",
+    "currency": "BND"
+  },
+  {
+    "id": "dd94ab50-1bc5-4597-9537-be53033aed5d",
+    "country_name": "Bulgaria",
+    "iso2": "BG",
+    "iso3": "BGR",
+    "phone_code": "359",
+    "address_format": null,
+    "capital": "Sofia",
+    "currency": "BGN"
+  },
+  {
+    "id": "a437221b-9a1f-437c-aa4e-aa6e6a87cad4",
+    "country_name": "Burkina Faso",
+    "iso2": "BF",
+    "iso3": "BFA",
+    "phone_code": "226",
+    "address_format": null,
+    "capital": "Ouagadougou",
+    "currency": "XOF"
+  },
+  {
+    "id": "617c422d-a6f6-4568-b7f8-5989367020b3",
+    "country_name": "Burundi",
+    "iso2": "BI",
+    "iso3": "BDI",
+    "phone_code": "257",
+    "address_format": null,
+    "capital": "Bujumbura",
+    "currency": "BIF"
+  },
+  {
+    "id": "39a5a9be-dc10-46a3-b1a9-1183891373de",
+    "country_name": "Cambodia",
+    "iso2": "KH",
+    "iso3": "KHM",
+    "phone_code": "855",
+    "address_format": null,
+    "capital": "Phnom Penh",
+    "currency": "KHR"
+  },
+  {
+    "id": "58828e13-fe2a-4247-87ec-ae0dcd7fc9d1",
+    "country_name": "Cameroon",
+    "iso2": "CM",
+    "iso3": "CMR",
+    "phone_code": "237",
+    "address_format": null,
+    "capital": "Yaounde",
+    "currency": "XAF"
+  },
+  {
+    "id": "89ba2755-a001-42c2-b8fa-670180192251",
+    "country_name": "Canada",
+    "iso2": "CA",
+    "iso3": "CAN",
+    "phone_code": "1",
+    "address_format": null,
+    "capital": "Ottawa",
+    "currency": "CAD"
+  },
+  {
+    "id": "acc608c7-2252-4823-91c6-daffbb43cef4",
+    "country_name": "Cape Verde",
+    "iso2": "CV",
+    "iso3": "CPV",
+    "phone_code": "238",
+    "address_format": null,
+    "capital": "Praia",
+    "currency": "CVE"
+  },
+  {
+    "id": "9fb21c01-d849-46bf-b488-94fb1bebb3ae",
+    "country_name": "Cayman Islands",
+    "iso2": "KY",
+    "iso3": "CYM",
+    "phone_code": "+1-345",
+    "address_format": null,
+    "capital": "George Town",
+    "currency": "KYD"
+  },
+  {
+    "id": "c07c3c58-2df3-4516-9d4f-e42373417b47",
+    "country_name": "Central African Republic",
+    "iso2": "CF",
+    "iso3": "CAF",
+    "phone_code": "236",
+    "address_format": null,
+    "capital": "Bangui",
+    "currency": "XAF"
+  },
+  {
+    "id": "51605a16-8ce7-4043-93a3-55c157dfb8cd",
+    "country_name": "Chad",
+    "iso2": "TD",
+    "iso3": "TCD",
+    "phone_code": "235",
+    "address_format": null,
+    "capital": "N'Djamena",
+    "currency": "XAF"
+  },
+  {
+    "id": "361b4503-063e-458a-af0b-647f9debfada",
+    "country_name": "Chile",
+    "iso2": "CL",
+    "iso3": "CHL",
+    "phone_code": "56",
+    "address_format": null,
+    "capital": "Santiago",
+    "currency": "CLP"
+  },
+  {
+    "id": "bf77d3e4-e6ff-4398-9324-333ffb96d704",
+    "country_name": "China",
+    "iso2": "CN",
+    "iso3": "CHN",
+    "phone_code": "86",
+    "address_format": null,
+    "capital": "Beijing",
+    "currency": "CNY"
+  },
+  {
+    "id": "860b99fd-e682-4d49-9c8a-486240d954d7",
+    "country_name": "Christmas Island",
+    "iso2": "CX",
+    "iso3": "CXR",
+    "phone_code": "61",
+    "address_format": null,
+    "capital": "Flying Fish Cove",
+    "currency": "AUD"
+  },
+  {
+    "id": "7b32bc6b-3bea-4311-9837-b41e782ce62f",
+    "country_name": "Cocos (Keeling) Islands",
+    "iso2": "CC",
+    "iso3": "CCK",
+    "phone_code": "61",
+    "address_format": null,
+    "capital": "West Island",
+    "currency": "AUD"
+  },
+  {
+    "id": "800bbd74-70cf-4267-b3ed-61f22e21c981",
+    "country_name": "Colombia",
+    "iso2": "CO",
+    "iso3": "COL",
+    "phone_code": "57",
+    "address_format": null,
+    "capital": "Bogota",
+    "currency": "COP"
+  },
+  {
+    "id": "cf914359-3fa8-49da-9bfb-10f904427ebf",
+    "country_name": "Comoros",
+    "iso2": "KM",
+    "iso3": "COM",
+    "phone_code": "269",
+    "address_format": null,
+    "capital": "Moroni",
+    "currency": "KMF"
+  },
+  {
+    "id": "5de1751c-5cf2-4304-bfd2-385c88020e35",
+    "country_name": "Congo",
+    "iso2": "CG",
+    "iso3": "COG",
+    "phone_code": "242",
+    "address_format": null,
+    "capital": "Brazzaville",
+    "currency": "XAF"
+  },
+  {
+    "id": "b4315d6a-9c3a-4564-88d4-6a45d1143b66",
+    "country_name": "Congo The Democratic Republic Of The",
+    "iso2": "CD",
+    "iso3": "COD",
+    "phone_code": "243",
+    "address_format": null,
+    "capital": "Kinshasa",
+    "currency": "CDF"
+  },
+  {
+    "id": "891f1a1b-9d97-4abe-aa2a-7f68be6cdb9a",
+    "country_name": "Cook Islands",
+    "iso2": "CK",
+    "iso3": "COK",
+    "phone_code": "682",
+    "address_format": null,
+    "capital": "Avarua",
+    "currency": "NZD"
+  },
+  {
+    "id": "dbe1e2fc-0f9f-4949-8290-bebaf5960ccb",
+    "country_name": "Costa Rica",
+    "iso2": "CR",
+    "iso3": "CRI",
+    "phone_code": "506",
+    "address_format": null,
+    "capital": "San Jose",
+    "currency": "CRC"
+  },
+  {
+    "id": "c087e2fd-01b9-4d92-ae47-014c256e2269",
+    "country_name": "Cote D'Ivoire (Ivory Coast)",
+    "iso2": "CI",
+    "iso3": "CIV",
+    "phone_code": "225",
+    "address_format": null,
+    "capital": "Yamoussoukro",
+    "currency": "XOF"
+  },
+  {
+    "id": "252bbd65-ac0c-4055-9910-87eb3239f1c5",
+    "country_name": "Croatia (Hrvatska)",
+    "iso2": "HR",
+    "iso3": "HRV",
+    "phone_code": "385",
+    "address_format": null,
+    "capital": "Zagreb",
+    "currency": "HRK"
+  },
+  {
+    "id": "a86d81b6-5917-4d55-aabb-e929c5ec45ba",
+    "country_name": "Cuba",
+    "iso2": "CU",
+    "iso3": "CUB",
+    "phone_code": "53",
+    "address_format": null,
+    "capital": "Havana",
+    "currency": "CUP"
+  },
+  {
+    "id": "93009298-4cf7-40f3-973b-e865194457f5",
+    "country_name": "Cyprus",
+    "iso2": "CY",
+    "iso3": "CYP",
+    "phone_code": "357",
+    "address_format": null,
+    "capital": "Nicosia",
+    "currency": "EUR"
+  },
+  {
+    "id": "97dd75c8-be51-41e3-9f07-0f5224a10131",
+    "country_name": "Czech Republic",
+    "iso2": "CZ",
+    "iso3": "CZE",
+    "phone_code": "420",
+    "address_format": null,
+    "capital": "Prague",
+    "currency": "CZK"
+  },
+  {
+    "id": "b076234e-3835-4ad3-9700-92f12c087068",
+    "country_name": "Denmark",
+    "iso2": "DK",
+    "iso3": "DNK",
+    "phone_code": "45",
+    "address_format": null,
+    "capital": "Copenhagen",
+    "currency": "DKK"
+  },
+  {
+    "id": "864c9161-1e7b-40da-b829-9f2bdb03e424",
+    "country_name": "Djibouti",
+    "iso2": "DJ",
+    "iso3": "DJI",
+    "phone_code": "253",
+    "address_format": null,
+    "capital": "Djibouti",
+    "currency": "DJF"
+  },
+  {
+    "id": "152af81f-0128-473f-a833-b0724767659d",
+    "country_name": "Dominica",
+    "iso2": "DM",
+    "iso3": "DMA",
+    "phone_code": "+1-767",
+    "address_format": null,
+    "capital": "Roseau",
+    "currency": "XCD"
+  },
+  {
+    "id": "ecf0b209-9c28-4215-8f71-0266e709877d",
+    "country_name": "Dominican Republic",
+    "iso2": "DO",
+    "iso3": "DOM",
+    "phone_code": "+1-809 and 1-829",
+    "address_format": null,
+    "capital": "Santo Domingo",
+    "currency": "DOP"
+  },
+  {
+    "id": "c1e62217-53aa-4ba2-a4d1-c681df6850f2",
+    "country_name": "East Timor",
+    "iso2": "TL",
+    "iso3": "TLS",
+    "phone_code": "670",
+    "address_format": null,
+    "capital": "Dili",
+    "currency": "USD"
+  },
+  {
+    "id": "f5e4ce19-ba5b-40be-9067-33a3799bc53f",
+    "country_name": "Ecuador",
+    "iso2": "EC",
+    "iso3": "ECU",
+    "phone_code": "593",
+    "address_format": null,
+    "capital": "Quito",
+    "currency": "USD"
+  },
+  {
+    "id": "0afcb439-ee7d-47a4-883a-56f556bbeeb3",
+    "country_name": "Egypt",
+    "iso2": "EG",
+    "iso3": "EGY",
+    "phone_code": "20",
+    "address_format": null,
+    "capital": "Cairo",
+    "currency": "EGP"
+  },
+  {
+    "id": "a7c886b4-f19b-4350-b5ce-2883e9e38a1e",
+    "country_name": "El Salvador",
+    "iso2": "SV",
+    "iso3": "SLV",
+    "phone_code": "503",
+    "address_format": null,
+    "capital": "San Salvador",
+    "currency": "USD"
+  },
+  {
+    "id": "9095ff36-ab77-4414-a3bd-3fb0c78f303c",
+    "country_name": "Equatorial Guinea",
+    "iso2": "GQ",
+    "iso3": "GNQ",
+    "phone_code": "240",
+    "address_format": null,
+    "capital": "Malabo",
+    "currency": "XAF"
+  },
+  {
+    "id": "c8cf367f-8521-4278-9640-2c5f4421c44f",
+    "country_name": "Eritrea",
+    "iso2": "ER",
+    "iso3": "ERI",
+    "phone_code": "291",
+    "address_format": null,
+    "capital": "Asmara",
+    "currency": "ERN"
+  },
+  {
+    "id": "20ca5c76-1d8c-4880-a7af-8358a6f8ad7a",
+    "country_name": "Estonia",
+    "iso2": "EE",
+    "iso3": "EST",
+    "phone_code": "372",
+    "address_format": null,
+    "capital": "Tallinn",
+    "currency": "EUR"
+  },
+  {
+    "id": "39c22186-171f-4bc9-b159-57acc004d188",
+    "country_name": "Ethiopia",
+    "iso2": "ET",
+    "iso3": "ETH",
+    "phone_code": "251",
+    "address_format": null,
+    "capital": "Addis Ababa",
+    "currency": "ETB"
+  },
+  {
+    "id": "6af48a48-bdc6-40c2-8378-c7578b28f187",
+    "country_name": "Falkland Islands",
+    "iso2": "FK",
+    "iso3": "FLK",
+    "phone_code": "500",
+    "address_format": null,
+    "capital": "Stanley",
+    "currency": "FKP"
+  },
+  {
+    "id": "5df8f63d-6e6a-49ba-af6e-4c472600329b",
+    "country_name": "Faroe Islands",
+    "iso2": "FO",
+    "iso3": "FRO",
+    "phone_code": "298",
+    "address_format": null,
+    "capital": "Torshavn",
+    "currency": "DKK"
+  },
+  {
+    "id": "bb925ac1-30a8-47e3-bf57-2733d704d2d2",
+    "country_name": "Fiji Islands",
+    "iso2": "FJ",
+    "iso3": "FJI",
+    "phone_code": "679",
+    "address_format": null,
+    "capital": "Suva",
+    "currency": "FJD"
+  },
+  {
+    "id": "a410aa71-2306-485c-9e34-70f234857996",
+    "country_name": "Finland",
+    "iso2": "FI",
+    "iso3": "FIN",
+    "phone_code": "358",
+    "address_format": null,
+    "capital": "Helsinki",
+    "currency": "EUR"
+  },
+  {
+    "id": "e2940aa4-c421-4f74-87a1-44ff2d2af3bc",
+    "country_name": "France",
+    "iso2": "FR",
+    "iso3": "FRA",
+    "phone_code": "33",
+    "address_format": null,
+    "capital": "Paris",
+    "currency": "EUR"
+  },
+  {
+    "id": "8d1d2a91-1771-49cd-b783-fd54108112b2",
+    "country_name": "French Guiana",
+    "iso2": "GF",
+    "iso3": "GUF",
+    "phone_code": "594",
+    "address_format": null,
+    "capital": "Cayenne",
+    "currency": "EUR"
+  },
+  {
+    "id": "6d3e0008-fe66-4c92-abeb-bb02ec7cd5b5",
+    "country_name": "French Polynesia",
+    "iso2": "PF",
+    "iso3": "PYF",
+    "phone_code": "689",
+    "address_format": null,
+    "capital": "Papeete",
+    "currency": "XPF"
+  },
+  {
+    "id": "a01d96ab-6e64-4f23-b458-b992f7cccc32",
+    "country_name": "French Southern Territories",
+    "iso2": "TF",
+    "iso3": "ATF",
+    "phone_code": "",
+    "address_format": null,
+    "capital": "Port-aux-Francais",
+    "currency": "EUR"
+  },
+  {
+    "id": "b3a3ac40-a006-4a63-9f91-e56f1f92a887",
+    "country_name": "Gabon",
+    "iso2": "GA",
+    "iso3": "GAB",
+    "phone_code": "241",
+    "address_format": null,
+    "capital": "Libreville",
+    "currency": "XAF"
+  },
+  {
+    "id": "cd8e6897-3c88-4a8b-a14b-e91828de22a9",
+    "country_name": "Gambia The",
+    "iso2": "GM",
+    "iso3": "GMB",
+    "phone_code": "220",
+    "address_format": null,
+    "capital": "Banjul",
+    "currency": "GMD"
+  },
+  {
+    "id": "8ecc5a46-73f8-47f5-9662-384a85352001",
+    "country_name": "Georgia",
+    "iso2": "GE",
+    "iso3": "GEO",
+    "phone_code": "995",
+    "address_format": null,
+    "capital": "Tbilisi",
+    "currency": "GEL"
+  },
+  {
+    "id": "42882e15-9308-47e6-96d8-933ed873fe39",
+    "country_name": "Germany",
+    "iso2": "DE",
+    "iso3": "DEU",
+    "phone_code": "49",
+    "address_format": null,
+    "capital": "Berlin",
+    "currency": "EUR"
+  },
+  {
+    "id": "cbf22c6e-1000-4d4e-a652-c556a2048911",
+    "country_name": "Ghana",
+    "iso2": "GH",
+    "iso3": "GHA",
+    "phone_code": "233",
+    "address_format": null,
+    "capital": "Accra",
+    "currency": "GHS"
+  },
+  {
+    "id": "62eb4cc2-a1a7-4ccd-8a62-02a131b951e0",
+    "country_name": "Gibraltar",
+    "iso2": "GI",
+    "iso3": "GIB",
+    "phone_code": "350",
+    "address_format": null,
+    "capital": "Gibraltar",
+    "currency": "GIP"
+  },
+  {
+    "id": "4c810967-59f5-4303-ba93-fe49f9a3c8c2",
+    "country_name": "Greece",
+    "iso2": "GR",
+    "iso3": "GRC",
+    "phone_code": "30",
+    "address_format": null,
+    "capital": "Athens",
+    "currency": "EUR"
+  },
+  {
+    "id": "709e4db8-1294-4bd5-a71b-9b4bdb39c62a",
+    "country_name": "Greenland",
+    "iso2": "GL",
+    "iso3": "GRL",
+    "phone_code": "299",
+    "address_format": null,
+    "capital": "Nuuk",
+    "currency": "DKK"
+  },
+  {
+    "id": "d7c0667d-36ac-4b66-b7b6-f2c1cd9f592c",
+    "country_name": "Grenada",
+    "iso2": "GD",
+    "iso3": "GRD",
+    "phone_code": "+1-473",
+    "address_format": null,
+    "capital": "St. George's",
+    "currency": "XCD"
+  },
+  {
+    "id": "307db29b-f70f-46ef-9b38-d5d2e70a337d",
+    "country_name": "Guadeloupe",
+    "iso2": "GP",
+    "iso3": "GLP",
+    "phone_code": "590",
+    "address_format": null,
+    "capital": "Basse-Terre",
+    "currency": "EUR"
+  },
+  {
+    "id": "62efb69b-ed3e-43af-88c4-ce0ec7e27bd7",
+    "country_name": "Guam",
+    "iso2": "GU",
+    "iso3": "GUM",
+    "phone_code": "+1-671",
+    "address_format": null,
+    "capital": "Hagatna",
+    "currency": "USD"
+  },
+  {
+    "id": "964bd7e4-8bad-4aeb-894f-fbc60b567567",
+    "country_name": "Guatemala",
+    "iso2": "GT",
+    "iso3": "GTM",
+    "phone_code": "502",
+    "address_format": null,
+    "capital": "Guatemala City",
+    "currency": "GTQ"
+  },
+  {
+    "id": "08302f60-40ce-4596-92e1-c38c6dcd7919",
+    "country_name": "Guernsey and Alderney",
+    "iso2": "GG",
+    "iso3": "GGY",
+    "phone_code": "+44-1481",
+    "address_format": null,
+    "capital": "St Peter Port",
+    "currency": "GBP"
+  },
+  {
+    "id": "013c9917-3af2-45de-9fff-4710620f04ed",
+    "country_name": "Guinea",
+    "iso2": "GN",
+    "iso3": "GIN",
+    "phone_code": "224",
+    "address_format": null,
+    "capital": "Conakry",
+    "currency": "GNF"
+  },
+  {
+    "id": "836c37d3-54dc-44e1-882d-cdc0528e6191",
+    "country_name": "Guinea-Bissau",
+    "iso2": "GW",
+    "iso3": "GNB",
+    "phone_code": "245",
+    "address_format": null,
+    "capital": "Bissau",
+    "currency": "XOF"
+  },
+  {
+    "id": "e0d8d49c-9167-44db-8ba6-ff3b958a46b7",
+    "country_name": "Guyana",
+    "iso2": "GY",
+    "iso3": "GUY",
+    "phone_code": "592",
+    "address_format": null,
+    "capital": "Georgetown",
+    "currency": "GYD"
+  },
+  {
+    "id": "16263f3c-e3b9-49e8-b564-cee78742b12c",
+    "country_name": "Haiti",
+    "iso2": "HT",
+    "iso3": "HTI",
+    "phone_code": "509",
+    "address_format": null,
+    "capital": "Port-au-Prince",
+    "currency": "HTG"
+  },
+  {
+    "id": "f4c97666-1be3-4e9f-9ff1-12f047d23a54",
+    "country_name": "Heard and McDonald Islands",
+    "iso2": "HM",
+    "iso3": "HMD",
+    "phone_code": " ",
+    "address_format": null,
+    "capital": "",
+    "currency": "AUD"
+  },
+  {
+    "id": "8cd908b7-766f-4255-b307-7c4266576204",
+    "country_name": "Honduras",
+    "iso2": "HN",
+    "iso3": "HND",
+    "phone_code": "504",
+    "address_format": null,
+    "capital": "Tegucigalpa",
+    "currency": "HNL"
+  },
+  {
+    "id": "bba1edba-c84d-4046-8551-d2f4f604ba42",
+    "country_name": "Hong Kong S.A.R.",
+    "iso2": "HK",
+    "iso3": "HKG",
+    "phone_code": "852",
+    "address_format": null,
+    "capital": "Hong Kong",
+    "currency": "HKD"
+  },
+  {
+    "id": "79380b8b-dcd2-4bfb-9623-0011fc984064",
+    "country_name": "Hungary",
+    "iso2": "HU",
+    "iso3": "HUN",
+    "phone_code": "36",
+    "address_format": null,
+    "capital": "Budapest",
+    "currency": "HUF"
+  },
+  {
+    "id": "dcf9020e-3def-4a21-b4f6-f13a33383e26",
+    "country_name": "Iceland",
+    "iso2": "IS",
+    "iso3": "ISL",
+    "phone_code": "354",
+    "address_format": null,
+    "capital": "Reykjavik",
+    "currency": "ISK"
+  },
+  {
+    "id": "05a133e9-2146-42a1-890c-49f2c380e631",
+    "country_name": "India",
+    "iso2": "IN",
+    "iso3": "IND",
+    "phone_code": "91",
+    "address_format": null,
+    "capital": "New Delhi",
+    "currency": "INR"
+  },
+  {
+    "id": "a2ff7383-c22b-4aab-9a10-a3d322b087b2",
+    "country_name": "Indonesia",
+    "iso2": "ID",
+    "iso3": "IDN",
+    "phone_code": "62",
+    "address_format": null,
+    "capital": "Jakarta",
+    "currency": "IDR"
+  },
+  {
+    "id": "da957bfe-0c21-42bb-94bf-54eaa85b3e99",
+    "country_name": "Iran",
+    "iso2": "IR",
+    "iso3": "IRN",
+    "phone_code": "98",
+    "address_format": null,
+    "capital": "Tehran",
+    "currency": "IRR"
+  },
+  {
+    "id": "03a91306-b696-4d8d-a9bf-e3bc6bb2153b",
+    "country_name": "Iraq",
+    "iso2": "IQ",
+    "iso3": "IRQ",
+    "phone_code": "964",
+    "address_format": null,
+    "capital": "Baghdad",
+    "currency": "IQD"
+  },
+  {
+    "id": "478fb5d0-6060-439f-a281-00bd63ec7d8b",
+    "country_name": "Ireland",
+    "iso2": "IE",
+    "iso3": "IRL",
+    "phone_code": "353",
+    "address_format": null,
+    "capital": "Dublin",
+    "currency": "EUR"
+  },
+  {
+    "id": "6d73eaa9-2d0f-4d7d-93b1-3ad7f7d850fa",
+    "country_name": "Israel",
+    "iso2": "IL",
+    "iso3": "ISR",
+    "phone_code": "972",
+    "address_format": null,
+    "capital": "Jerusalem",
+    "currency": "ILS"
+  },
+  {
+    "id": "6c86ecc0-f4a7-4bc1-81e3-e7f5577cc7ed",
+    "country_name": "Italy",
+    "iso2": "IT",
+    "iso3": "ITA",
+    "phone_code": "39",
+    "address_format": null,
+    "capital": "Rome",
+    "currency": "EUR"
+  },
+  {
+    "id": "2ea85f32-5087-4a31-b71e-0f93de38c189",
+    "country_name": "Jamaica",
+    "iso2": "JM",
+    "iso3": "JAM",
+    "phone_code": "+1-876",
+    "address_format": null,
+    "capital": "Kingston",
+    "currency": "JMD"
+  },
+  {
+    "id": "5979de5f-2567-4fb7-95ad-c022815ddf28",
+    "country_name": "Japan",
+    "iso2": "JP",
+    "iso3": "JPN",
+    "phone_code": "81",
+    "address_format": null,
+    "capital": "Tokyo",
+    "currency": "JPY"
+  },
+  {
+    "id": "1a01eee9-eb5d-4f5f-be1c-33dbde140af3",
+    "country_name": "Jersey",
+    "iso2": "JE",
+    "iso3": "JEY",
+    "phone_code": "+44-1534",
+    "address_format": null,
+    "capital": "Saint Helier",
+    "currency": "GBP"
+  },
+  {
+    "id": "55557bf6-4913-4ffc-9736-fa5b5e6d7a53",
+    "country_name": "Jordan",
+    "iso2": "JO",
+    "iso3": "JOR",
+    "phone_code": "962",
+    "address_format": null,
+    "capital": "Amman",
+    "currency": "JOD"
+  },
+  {
+    "id": "38fa2879-7c4e-4010-9f36-4f979d105e77",
+    "country_name": "Kazakhstan",
+    "iso2": "KZ",
+    "iso3": "KAZ",
+    "phone_code": "7",
+    "address_format": null,
+    "capital": "Astana",
+    "currency": "KZT"
+  },
+  {
+    "id": "b0ac8134-25b7-4780-9c73-f3dc3a056782",
+    "country_name": "Kenya",
+    "iso2": "KE",
+    "iso3": "KEN",
+    "phone_code": "254",
+    "address_format": null,
+    "capital": "Nairobi",
+    "currency": "KES"
+  },
+  {
+    "id": "90824d9b-9d3e-4b19-954f-1ba8fabce8b6",
+    "country_name": "Kiribati",
+    "iso2": "KI",
+    "iso3": "KIR",
+    "phone_code": "686",
+    "address_format": null,
+    "capital": "Tarawa",
+    "currency": "AUD"
+  },
+  {
+    "id": "02877e69-32bd-4f89-9e51-af0f2c90b467",
+    "country_name": "Korea North",
+    "iso2": "KP",
+    "iso3": "PRK",
+    "phone_code": "850",
+    "address_format": null,
+    "capital": "Pyongyang",
+    "currency": "KPW"
+  },
+  {
+    "id": "892b9db8-d139-470f-8579-c06abb69a855",
+    "country_name": "Korea South",
+    "iso2": "KR",
+    "iso3": "KOR",
+    "phone_code": "82",
+    "address_format": null,
+    "capital": "Seoul",
+    "currency": "KRW"
+  },
+  {
+    "id": "fa7c790b-d15f-450a-b774-9073862e5ea4",
+    "country_name": "Kuwait",
+    "iso2": "KW",
+    "iso3": "KWT",
+    "phone_code": "965",
+    "address_format": null,
+    "capital": "Kuwait City",
+    "currency": "KWD"
+  },
+  {
+    "id": "78f195d0-28db-4da1-b257-2b5b581412fd",
+    "country_name": "Kyrgyzstan",
+    "iso2": "KG",
+    "iso3": "KGZ",
+    "phone_code": "996",
+    "address_format": null,
+    "capital": "Bishkek",
+    "currency": "KGS"
+  },
+  {
+    "id": "cba0dd33-2ed5-4646-b9fb-28f495405e1f",
+    "country_name": "Laos",
+    "iso2": "LA",
+    "iso3": "LAO",
+    "phone_code": "856",
+    "address_format": null,
+    "capital": "Vientiane",
+    "currency": "LAK"
+  },
+  {
+    "id": "b3506805-939e-4d2e-8051-d304ec8cbb05",
+    "country_name": "Latvia",
+    "iso2": "LV",
+    "iso3": "LVA",
+    "phone_code": "371",
+    "address_format": null,
+    "capital": "Riga",
+    "currency": "EUR"
+  },
+  {
+    "id": "a190adb8-c44d-42f8-9100-d3ffdc7b14a9",
+    "country_name": "Lebanon",
+    "iso2": "LB",
+    "iso3": "LBN",
+    "phone_code": "961",
+    "address_format": null,
+    "capital": "Beirut",
+    "currency": "LBP"
+  },
+  {
+    "id": "c6708bf7-beb0-438a-95c0-d3ce11b42734",
+    "country_name": "Lesotho",
+    "iso2": "LS",
+    "iso3": "LSO",
+    "phone_code": "266",
+    "address_format": null,
+    "capital": "Maseru",
+    "currency": "LSL"
+  },
+  {
+    "id": "50d0572f-0084-4c52-b60e-887d8c64966b",
+    "country_name": "Liberia",
+    "iso2": "LR",
+    "iso3": "LBR",
+    "phone_code": "231",
+    "address_format": null,
+    "capital": "Monrovia",
+    "currency": "LRD"
+  },
+  {
+    "id": "4af31cf0-aa9d-4ce8-8c4a-97d9a064b01b",
+    "country_name": "Libya",
+    "iso2": "LY",
+    "iso3": "LBY",
+    "phone_code": "218",
+    "address_format": null,
+    "capital": "Tripolis",
+    "currency": "LYD"
+  },
+  {
+    "id": "06597056-58f0-495f-8b6f-fdb998c68d68",
+    "country_name": "Liechtenstein",
+    "iso2": "LI",
+    "iso3": "LIE",
+    "phone_code": "423",
+    "address_format": null,
+    "capital": "Vaduz",
+    "currency": "CHF"
+  },
+  {
+    "id": "4a66be58-2a56-473c-9b07-c00314e8adb0",
+    "country_name": "Lithuania",
+    "iso2": "LT",
+    "iso3": "LTU",
+    "phone_code": "370",
+    "address_format": null,
+    "capital": "Vilnius",
+    "currency": "LTL"
+  },
+  {
+    "id": "37e8e6e7-ee45-4dc1-a82d-bf86c441e9c5",
+    "country_name": "Luxembourg",
+    "iso2": "LU",
+    "iso3": "LUX",
+    "phone_code": "352",
+    "address_format": null,
+    "capital": "Luxembourg",
+    "currency": "EUR"
+  },
+  {
+    "id": "69aa1cdc-c3db-4683-b993-a35d2a1456c7",
+    "country_name": "Macau S.A.R.",
+    "iso2": "MO",
+    "iso3": "MAC",
+    "phone_code": "853",
+    "address_format": null,
+    "capital": "Macao",
+    "currency": "MOP"
+  },
+  {
+    "id": "7fc4eb2e-1889-49b3-b338-0e9ceca50826",
+    "country_name": "Macedonia",
+    "iso2": "MK",
+    "iso3": "MKD",
+    "phone_code": "389",
+    "address_format": null,
+    "capital": "Skopje",
+    "currency": "MKD"
+  },
+  {
+    "id": "ee029afc-443d-4c99-84b9-9a40f4dbe39e",
+    "country_name": "Madagascar",
+    "iso2": "MG",
+    "iso3": "MDG",
+    "phone_code": "261",
+    "address_format": null,
+    "capital": "Antananarivo",
+    "currency": "MGA"
+  },
+  {
+    "id": "829c3799-6e05-4181-a7f4-57a0435e13eb",
+    "country_name": "Malawi",
+    "iso2": "MW",
+    "iso3": "MWI",
+    "phone_code": "265",
+    "address_format": null,
+    "capital": "Lilongwe",
+    "currency": "MWK"
+  },
+  {
+    "id": "27071984-bea0-44c8-a21d-fa4f0371646a",
+    "country_name": "Malaysia",
+    "iso2": "MY",
+    "iso3": "MYS",
+    "phone_code": "60",
+    "address_format": null,
+    "capital": "Kuala Lumpur",
+    "currency": "MYR"
+  },
+  {
+    "id": "aa7ab394-cc34-444a-846f-0fab8deeb264",
+    "country_name": "Maldives",
+    "iso2": "MV",
+    "iso3": "MDV",
+    "phone_code": "960",
+    "address_format": null,
+    "capital": "Male",
+    "currency": "MVR"
+  },
+  {
+    "id": "b208d06b-2c96-4b47-89a1-b941d81c57d9",
+    "country_name": "Mali",
+    "iso2": "ML",
+    "iso3": "MLI",
+    "phone_code": "223",
+    "address_format": null,
+    "capital": "Bamako",
+    "currency": "XOF"
+  },
+  {
+    "id": "f41414d8-6313-405e-8e50-fbf9222cb0bf",
+    "country_name": "Malta",
+    "iso2": "MT",
+    "iso3": "MLT",
+    "phone_code": "356",
+    "address_format": null,
+    "capital": "Valletta",
+    "currency": "EUR"
+  },
+  {
+    "id": "b01cf6f6-1d93-4171-a78e-e0d8b1b4b2df",
+    "country_name": "Man (Isle of)",
+    "iso2": "IM",
+    "iso3": "IMN",
+    "phone_code": "+44-1624",
+    "address_format": null,
+    "capital": "Douglas, Isle of Man",
+    "currency": "GBP"
+  },
+  {
+    "id": "5bcef018-adc4-4765-8780-31597fa11039",
+    "country_name": "Marshall Islands",
+    "iso2": "MH",
+    "iso3": "MHL",
+    "phone_code": "692",
+    "address_format": null,
+    "capital": "Majuro",
+    "currency": "USD"
+  },
+  {
+    "id": "a8f60334-8198-43fc-a9ee-0592114f26a4",
+    "country_name": "Martinique",
+    "iso2": "MQ",
+    "iso3": "MTQ",
+    "phone_code": "596",
+    "address_format": null,
+    "capital": "Fort-de-France",
+    "currency": "EUR"
+  },
+  {
+    "id": "c700f95a-000b-470c-b599-d591b88c53dc",
+    "country_name": "Mauritania",
+    "iso2": "MR",
+    "iso3": "MRT",
+    "phone_code": "222",
+    "address_format": null,
+    "capital": "Nouakchott",
+    "currency": "MRO"
+  },
+  {
+    "id": "31bb2ea7-0209-48ff-ba4c-45231171202c",
+    "country_name": "Mauritius",
+    "iso2": "MU",
+    "iso3": "MUS",
+    "phone_code": "230",
+    "address_format": null,
+    "capital": "Port Louis",
+    "currency": "MUR"
+  },
+  {
+    "id": "5689066b-bfd7-413a-98e6-97a4525172bd",
+    "country_name": "Mayotte",
+    "iso2": "YT",
+    "iso3": "MYT",
+    "phone_code": "262",
+    "address_format": null,
+    "capital": "Mamoudzou",
+    "currency": "EUR"
+  },
+  {
+    "id": "79e33f91-bc09-4c9b-9e16-662245d3501c",
+    "country_name": "Mexico",
+    "iso2": "MX",
+    "iso3": "MEX",
+    "phone_code": "52",
+    "address_format": null,
+    "capital": "Mexico City",
+    "currency": "MXN"
+  },
+  {
+    "id": "c58d8032-6b89-47db-ac68-589c3a6434e2",
+    "country_name": "Micronesia",
+    "iso2": "FM",
+    "iso3": "FSM",
+    "phone_code": "691",
+    "address_format": null,
+    "capital": "Palikir",
+    "currency": "USD"
+  },
+  {
+    "id": "ec6588dd-3b2a-4495-9561-b40e036c436f",
+    "country_name": "Moldova",
+    "iso2": "MD",
+    "iso3": "MDA",
+    "phone_code": "373",
+    "address_format": null,
+    "capital": "Chisinau",
+    "currency": "MDL"
+  },
+  {
+    "id": "8e2befd5-0a6d-47b6-8cb7-2d19e28e2f56",
+    "country_name": "Monaco",
+    "iso2": "MC",
+    "iso3": "MCO",
+    "phone_code": "377",
+    "address_format": null,
+    "capital": "Monaco",
+    "currency": "EUR"
+  },
+  {
+    "id": "d59e6a6f-ccc6-442b-b84c-32b7c5d87241",
+    "country_name": "Mongolia",
+    "iso2": "MN",
+    "iso3": "MNG",
+    "phone_code": "976",
+    "address_format": null,
+    "capital": "Ulan Bator",
+    "currency": "MNT"
+  },
+  {
+    "id": "cd2ae19b-3b5f-4ff0-9549-4fe11fcc09f1",
+    "country_name": "Montenegro",
+    "iso2": "ME",
+    "iso3": "MNE",
+    "phone_code": "382",
+    "address_format": null,
+    "capital": "Podgorica",
+    "currency": "EUR"
+  },
+  {
+    "id": "ff0dd11b-bd13-4163-9675-6aebb7d13808",
+    "country_name": "Montserrat",
+    "iso2": "MS",
+    "iso3": "MSR",
+    "phone_code": "+1-664",
+    "address_format": null,
+    "capital": "Plymouth",
+    "currency": "XCD"
+  },
+  {
+    "id": "e8775522-3972-48ef-be2e-f6c05ce4434a",
+    "country_name": "Morocco",
+    "iso2": "MA",
+    "iso3": "MAR",
+    "phone_code": "212",
+    "address_format": null,
+    "capital": "Rabat",
+    "currency": "MAD"
+  },
+  {
+    "id": "d4826c52-3cd5-4b83-9eec-cb0cb322ac1d",
+    "country_name": "Mozambique",
+    "iso2": "MZ",
+    "iso3": "MOZ",
+    "phone_code": "258",
+    "address_format": null,
+    "capital": "Maputo",
+    "currency": "MZN"
+  },
+  {
+    "id": "8b94f111-740e-4cec-ab66-c27f8e023652",
+    "country_name": "Myanmar",
+    "iso2": "MM",
+    "iso3": "MMR",
+    "phone_code": "95",
+    "address_format": null,
+    "capital": "Nay Pyi Taw",
+    "currency": "MMK"
+  },
+  {
+    "id": "82c33498-3f2f-4c31-ac5f-bf92f9cdc103",
+    "country_name": "Namibia",
+    "iso2": "NA",
+    "iso3": "NAM",
+    "phone_code": "264",
+    "address_format": null,
+    "capital": "Windhoek",
+    "currency": "NAD"
+  },
+  {
+    "id": "894fb06e-011c-44d8-928d-6a10c7b0acc0",
+    "country_name": "Nauru",
+    "iso2": "NR",
+    "iso3": "NRU",
+    "phone_code": "674",
+    "address_format": null,
+    "capital": "Yaren",
+    "currency": "AUD"
+  },
+  {
+    "id": "5038cf34-839a-4b41-b579-be461fdd8d63",
+    "country_name": "Nepal",
+    "iso2": "NP",
+    "iso3": "NPL",
+    "phone_code": "977",
+    "address_format": null,
+    "capital": "Kathmandu",
+    "currency": "NPR"
+  },
+  {
+    "id": "c58cab04-afee-481e-a26e-ea9b3930846d",
+    "country_name": "Netherlands Antilles",
+    "iso2": "AN",
+    "iso3": "ANT",
+    "phone_code": "",
+    "address_format": null,
+    "capital": "",
+    "currency": ""
+  },
+  {
+    "id": "bf83742a-92c5-4102-a241-27206cee4c4b",
+    "country_name": "Netherlands The",
+    "iso2": "NL",
+    "iso3": "NLD",
+    "phone_code": "31",
+    "address_format": null,
+    "capital": "Amsterdam",
+    "currency": "EUR"
+  },
+  {
+    "id": "cb278479-897c-42f4-a028-ca5d869a7475",
+    "country_name": "New Caledonia",
+    "iso2": "NC",
+    "iso3": "NCL",
+    "phone_code": "687",
+    "address_format": null,
+    "capital": "Noumea",
+    "currency": "XPF"
+  },
+  {
+    "id": "e274c2d5-7401-42cb-8482-e9ba48a7c583",
+    "country_name": "New Zealand",
+    "iso2": "NZ",
+    "iso3": "NZL",
+    "phone_code": "64",
+    "address_format": null,
+    "capital": "Wellington",
+    "currency": "NZD"
+  },
+  {
+    "id": "d1feaabb-6193-4e63-9ef6-8460d3fd8f71",
+    "country_name": "Nicaragua",
+    "iso2": "NI",
+    "iso3": "NIC",
+    "phone_code": "505",
+    "address_format": null,
+    "capital": "Managua",
+    "currency": "NIO"
+  },
+  {
+    "id": "b15f00ac-9e96-4274-a4e4-49908079b8c4",
+    "country_name": "Niger",
+    "iso2": "NE",
+    "iso3": "NER",
+    "phone_code": "227",
+    "address_format": null,
+    "capital": "Niamey",
+    "currency": "XOF"
+  },
+  {
+    "id": "70432354-2270-457a-9a32-b92f2dcf1721",
+    "country_name": "Nigeria",
+    "iso2": "NG",
+    "iso3": "NGA",
+    "phone_code": "234",
+    "address_format": null,
+    "capital": "Abuja",
+    "currency": "NGN"
+  },
+  {
+    "id": "51084941-6b2a-4217-b5c7-38b5bd6e9b62",
+    "country_name": "Niue",
+    "iso2": "NU",
+    "iso3": "NIU",
+    "phone_code": "683",
+    "address_format": null,
+    "capital": "Alofi",
+    "currency": "NZD"
+  },
+  {
+    "id": "9db502da-0cf4-440a-9aff-3da32d6c5ada",
+    "country_name": "Norfolk Island",
+    "iso2": "NF",
+    "iso3": "NFK",
+    "phone_code": "672",
+    "address_format": null,
+    "capital": "Kingston",
+    "currency": "AUD"
+  },
+  {
+    "id": "56ddb12d-f050-461d-83e3-00af3bfb7910",
+    "country_name": "Northern Mariana Islands",
+    "iso2": "MP",
+    "iso3": "MNP",
+    "phone_code": "+1-670",
+    "address_format": null,
+    "capital": "Saipan",
+    "currency": "USD"
+  },
+  {
+    "id": "0ee13bab-c580-4bb5-96eb-b536262e908a",
+    "country_name": "Norway",
+    "iso2": "NO",
+    "iso3": "NOR",
+    "phone_code": "47",
+    "address_format": null,
+    "capital": "Oslo",
+    "currency": "NOK"
+  },
+  {
+    "id": "000efa1a-eba7-4561-8fdb-4bc85c448354",
+    "country_name": "Oman",
+    "iso2": "OM",
+    "iso3": "OMN",
+    "phone_code": "968",
+    "address_format": null,
+    "capital": "Muscat",
+    "currency": "OMR"
+  },
+  {
+    "id": "42cfa808-2ad0-4285-8ed8-a1b55f094f6f",
+    "country_name": "Pakistan",
+    "iso2": "PK",
+    "iso3": "PAK",
+    "phone_code": "92",
+    "address_format": null,
+    "capital": "Islamabad",
+    "currency": "PKR"
+  },
+  {
+    "id": "01e9c25b-1d9f-4373-b266-2cadf87e9202",
+    "country_name": "Palau",
+    "iso2": "PW",
+    "iso3": "PLW",
+    "phone_code": "680",
+    "address_format": null,
+    "capital": "Melekeok",
+    "currency": "USD"
+  },
+  {
+    "id": "71f77a70-ef3b-4b4c-a7af-31dd4373cd3d",
+    "country_name": "Palestinian Territory Occupied",
+    "iso2": "PS",
+    "iso3": "PSE",
+    "phone_code": "970",
+    "address_format": null,
+    "capital": "East Jerusalem",
+    "currency": "ILS"
+  },
+  {
+    "id": "a078a5c2-0d52-434c-adf9-c6d01c376d23",
+    "country_name": "Panama",
+    "iso2": "PA",
+    "iso3": "PAN",
+    "phone_code": "507",
+    "address_format": null,
+    "capital": "Panama City",
+    "currency": "PAB"
+  },
+  {
+    "id": "b11b784f-c6b7-4a97-ba1c-8c50527bd6a1",
+    "country_name": "Papua new Guinea",
+    "iso2": "PG",
+    "iso3": "PNG",
+    "phone_code": "675",
+    "address_format": null,
+    "capital": "Port Moresby",
+    "currency": "PGK"
+  },
+  {
+    "id": "fa90a5b8-2016-4234-b191-d7d0aa53e385",
+    "country_name": "Paraguay",
+    "iso2": "PY",
+    "iso3": "PRY",
+    "phone_code": "595",
+    "address_format": null,
+    "capital": "Asuncion",
+    "currency": "PYG"
+  },
+  {
+    "id": "cf11d993-3182-4c98-bb12-a4e3cc6ebeae",
+    "country_name": "Peru",
+    "iso2": "PE",
+    "iso3": "PER",
+    "phone_code": "51",
+    "address_format": null,
+    "capital": "Lima",
+    "currency": "PEN"
+  },
+  {
+    "id": "251b850c-f8ea-4570-8a7a-94bba942b041",
+    "country_name": "Philippines",
+    "iso2": "PH",
+    "iso3": "PHL",
+    "phone_code": "63",
+    "address_format": null,
+    "capital": "Manila",
+    "currency": "PHP"
+  },
+  {
+    "id": "b4934fc8-1856-46c1-a2b7-404338a8cbb2",
+    "country_name": "Pitcairn Island",
+    "iso2": "PN",
+    "iso3": "PCN",
+    "phone_code": "870",
+    "address_format": null,
+    "capital": "Adamstown",
+    "currency": "NZD"
+  },
+  {
+    "id": "639f5902-d28f-4ac1-a77a-11d821fcead0",
+    "country_name": "Poland",
+    "iso2": "PL",
+    "iso3": "POL",
+    "phone_code": "48",
+    "address_format": null,
+    "capital": "Warsaw",
+    "currency": "PLN"
+  },
+  {
+    "id": "21a2a649-9644-455a-9bc8-180d5c9357eb",
+    "country_name": "Portugal",
+    "iso2": "PT",
+    "iso3": "PRT",
+    "phone_code": "351",
+    "address_format": null,
+    "capital": "Lisbon",
+    "currency": "EUR"
+  },
+  {
+    "id": "c363f31f-b810-4885-ae11-405a35134ea4",
+    "country_name": "Puerto Rico",
+    "iso2": "PR",
+    "iso3": "PRI",
+    "phone_code": "+1-787 and 1-939",
+    "address_format": null,
+    "capital": "San Juan",
+    "currency": "USD"
+  },
+  {
+    "id": "805d71ac-61a7-4b37-b8c7-88b4c4301916",
+    "country_name": "Qatar",
+    "iso2": "QA",
+    "iso3": "QAT",
+    "phone_code": "974",
+    "address_format": null,
+    "capital": "Doha",
+    "currency": "QAR"
+  },
+  {
+    "id": "3e123ab7-d7de-4215-a07b-00bc8deea4fd",
+    "country_name": "Reunion",
+    "iso2": "RE",
+    "iso3": "REU",
+    "phone_code": "262",
+    "address_format": null,
+    "capital": "Saint-Denis",
+    "currency": "EUR"
+  },
+  {
+    "id": "62561597-5f82-411d-947f-8ba20895bef5",
+    "country_name": "Romania",
+    "iso2": "RO",
+    "iso3": "ROU",
+    "phone_code": "40",
+    "address_format": null,
+    "capital": "Bucharest",
+    "currency": "RON"
+  },
+  {
+    "id": "56c5e1ce-8cab-4e9b-badb-dc0858e2f9d2",
+    "country_name": "Russia",
+    "iso2": "RU",
+    "iso3": "RUS",
+    "phone_code": "7",
+    "address_format": null,
+    "capital": "Moscow",
+    "currency": "RUB"
+  },
+  {
+    "id": "0672a4e3-2460-4562-9582-c0bb624d6cf6",
+    "country_name": "Rwanda",
+    "iso2": "RW",
+    "iso3": "RWA",
+    "phone_code": "250",
+    "address_format": null,
+    "capital": "Kigali",
+    "currency": "RWF"
+  },
+  {
+    "id": "4626da7e-3bd9-4d8a-9ae0-1fb454841288",
+    "country_name": "Saint Helena",
+    "iso2": "SH",
+    "iso3": "SHN",
+    "phone_code": "290",
+    "address_format": null,
+    "capital": "Jamestown",
+    "currency": "SHP"
+  },
+  {
+    "id": "04d0300d-0018-4daa-a8c5-7f154e0cf908",
+    "country_name": "Saint Kitts And Nevis",
+    "iso2": "KN",
+    "iso3": "KNA",
+    "phone_code": "+1-869",
+    "address_format": null,
+    "capital": "Basseterre",
+    "currency": "XCD"
+  },
+  {
+    "id": "6bd32f4c-9ab3-4bb9-b72e-3b421b14fc86",
+    "country_name": "Saint Lucia",
+    "iso2": "LC",
+    "iso3": "LCA",
+    "phone_code": "+1-758",
+    "address_format": null,
+    "capital": "Castries",
+    "currency": "XCD"
+  },
+  {
+    "id": "76435926-3f02-4078-a77e-25bba5de679b",
+    "country_name": "Saint Pierre and Miquelon",
+    "iso2": "PM",
+    "iso3": "SPM",
+    "phone_code": "508",
+    "address_format": null,
+    "capital": "Saint-Pierre",
+    "currency": "EUR"
+  },
+  {
+    "id": "5bd11ef4-66be-4230-93b2-6334fa0bc5e5",
+    "country_name": "Saint Vincent And The Grenadines",
+    "iso2": "VC",
+    "iso3": "VCT",
+    "phone_code": "+1-784",
+    "address_format": null,
+    "capital": "Kingstown",
+    "currency": "XCD"
+  },
+  {
+    "id": "56319895-7842-469e-8e94-8b169bb83ab1",
+    "country_name": "Saint-Barthelemy",
+    "iso2": "BL",
+    "iso3": "BLM",
+    "phone_code": "590",
+    "address_format": null,
+    "capital": "Gustavia",
+    "currency": "EUR"
+  },
+  {
+    "id": "7467fc42-f2ad-4224-85d5-897196c4f9dc",
+    "country_name": "Saint-Martin (French part)",
+    "iso2": "MF",
+    "iso3": "MAF",
+    "phone_code": "590",
+    "address_format": null,
+    "capital": "Marigot",
+    "currency": "EUR"
+  },
+  {
+    "id": "f54490f5-879f-4902-a6ae-18fc6ed262b8",
+    "country_name": "Samoa",
+    "iso2": "WS",
+    "iso3": "WSM",
+    "phone_code": "685",
+    "address_format": null,
+    "capital": "Apia",
+    "currency": "WST"
+  },
+  {
+    "id": "796a6d4c-999f-4956-afe7-41c43aebbc8b",
+    "country_name": "San Marino",
+    "iso2": "SM",
+    "iso3": "SMR",
+    "phone_code": "378",
+    "address_format": null,
+    "capital": "San Marino",
+    "currency": "EUR"
+  },
+  {
+    "id": "8d6d5287-bedf-455d-9a77-e4742a7feb0f",
+    "country_name": "Sao Tome and Principe",
+    "iso2": "ST",
+    "iso3": "STP",
+    "phone_code": "239",
+    "address_format": null,
+    "capital": "Sao Tome",
+    "currency": "STD"
+  },
+  {
+    "id": "b75ffec0-6fa0-4ca8-8a17-9139723083dc",
+    "country_name": "Saudi Arabia",
+    "iso2": "SA",
+    "iso3": "SAU",
+    "phone_code": "966",
+    "address_format": null,
+    "capital": "Riyadh",
+    "currency": "SAR"
+  },
+  {
+    "id": "2782a170-27d6-4cc2-9677-e7c97c6be9ad",
+    "country_name": "Senegal",
+    "iso2": "SN",
+    "iso3": "SEN",
+    "phone_code": "221",
+    "address_format": null,
+    "capital": "Dakar",
+    "currency": "XOF"
+  },
+  {
+    "id": "32fa59d3-5303-4d66-927c-0f09d6424764",
+    "country_name": "Serbia",
+    "iso2": "RS",
+    "iso3": "SRB",
+    "phone_code": "381",
+    "address_format": null,
+    "capital": "Belgrade",
+    "currency": "RSD"
+  },
+  {
+    "id": "9d055f86-9a89-48f6-b9de-5bf237d31d73",
+    "country_name": "Seychelles",
+    "iso2": "SC",
+    "iso3": "SYC",
+    "phone_code": "248",
+    "address_format": null,
+    "capital": "Victoria",
+    "currency": "SCR"
+  },
+  {
+    "id": "33e7b945-8e82-4408-bcae-3ca2f00c5bef",
+    "country_name": "Sierra Leone",
+    "iso2": "SL",
+    "iso3": "SLE",
+    "phone_code": "232",
+    "address_format": null,
+    "capital": "Freetown",
+    "currency": "SLL"
+  },
+  {
+    "id": "8f9e6ff3-4bb1-45d4-8674-c3bc26e8bcea",
+    "country_name": "Singapore",
+    "iso2": "SG",
+    "iso3": "SGP",
+    "phone_code": "65",
+    "address_format": null,
+    "capital": "Singapur",
+    "currency": "SGD"
+  },
+  {
+    "id": "90be33b1-f1b7-4ce6-ae90-e2e3573dcec2",
+    "country_name": "Slovakia",
+    "iso2": "SK",
+    "iso3": "SVK",
+    "phone_code": "421",
+    "address_format": null,
+    "capital": "Bratislava",
+    "currency": "EUR"
+  },
+  {
+    "id": "7ce8a25e-6282-414c-8a7e-dee092e65fed",
+    "country_name": "Slovenia",
+    "iso2": "SI",
+    "iso3": "SVN",
+    "phone_code": "386",
+    "address_format": null,
+    "capital": "Ljubljana",
+    "currency": "EUR"
+  },
+  {
+    "id": "7573763d-d923-42bb-8e6a-4626c4eac449",
+    "country_name": "Solomon Islands",
+    "iso2": "SB",
+    "iso3": "SLB",
+    "phone_code": "677",
+    "address_format": null,
+    "capital": "Honiara",
+    "currency": "SBD"
+  },
+  {
+    "id": "fab5499c-5d4f-4f9b-9630-660be0c7ede5",
+    "country_name": "Somalia",
+    "iso2": "SO",
+    "iso3": "SOM",
+    "phone_code": "252",
+    "address_format": null,
+    "capital": "Mogadishu",
+    "currency": "SOS"
+  },
+  {
+    "id": "c4b08d73-0e4b-4d18-94e6-ec01f7587a73",
+    "country_name": "South Africa",
+    "iso2": "ZA",
+    "iso3": "ZAF",
+    "phone_code": "27",
+    "address_format": null,
+    "capital": "Pretoria",
+    "currency": "ZAR"
+  },
+  {
+    "id": "0d4e2dab-e031-465d-b636-ac664b40c8e5",
+    "country_name": "South Georgia",
+    "iso2": "GS",
+    "iso3": "SGS",
+    "phone_code": "",
+    "address_format": null,
+    "capital": "Grytviken",
+    "currency": "GBP"
+  },
+  {
+    "id": "6d240169-dde2-4aef-af53-71745a5b0bd0",
+    "country_name": "South Sudan",
+    "iso2": "SS",
+    "iso3": "SSD",
+    "phone_code": "211",
+    "address_format": null,
+    "capital": "Juba",
+    "currency": "SSP"
+  },
+  {
+    "id": "ff765ced-b51b-4329-9951-d69d86377e44",
+    "country_name": "Spain",
+    "iso2": "ES",
+    "iso3": "ESP",
+    "phone_code": "34",
+    "address_format": null,
+    "capital": "Madrid",
+    "currency": "EUR"
+  },
+  {
+    "id": "cb75ba5a-7af9-483e-af89-bbf562d62524",
+    "country_name": "Sri Lanka",
+    "iso2": "LK",
+    "iso3": "LKA",
+    "phone_code": "94",
+    "address_format": null,
+    "capital": "Colombo",
+    "currency": "LKR"
+  },
+  {
+    "id": "e50eceec-152d-492e-a9fc-73d0c54a3468",
+    "country_name": "Sudan",
+    "iso2": "SD",
+    "iso3": "SDN",
+    "phone_code": "249",
+    "address_format": null,
+    "capital": "Khartoum",
+    "currency": "SDG"
+  },
+  {
+    "id": "0d4abb2b-92a2-4836-81f8-e5b2051e12f3",
+    "country_name": "Suriname",
+    "iso2": "SR",
+    "iso3": "SUR",
+    "phone_code": "597",
+    "address_format": null,
+    "capital": "Paramaribo",
+    "currency": "SRD"
+  },
+  {
+    "id": "0d707e82-dda5-4a54-98e8-d9a9f96cff86",
+    "country_name": "Svalbard And Jan Mayen Islands",
+    "iso2": "SJ",
+    "iso3": "SJM",
+    "phone_code": "47",
+    "address_format": null,
+    "capital": "Longyearbyen",
+    "currency": "NOK"
+  },
+  {
+    "id": "76afd38e-e22f-4c2e-aa6a-bf3efc0dcd5a",
+    "country_name": "Swaziland",
+    "iso2": "SZ",
+    "iso3": "SWZ",
+    "phone_code": "268",
+    "address_format": null,
+    "capital": "Mbabane",
+    "currency": "SZL"
+  },
+  {
+    "id": "6a188c3b-0417-4b09-b9a6-7837137a43cd",
+    "country_name": "Sweden",
+    "iso2": "SE",
+    "iso3": "SWE",
+    "phone_code": "46",
+    "address_format": null,
+    "capital": "Stockholm",
+    "currency": "SEK"
+  },
+  {
+    "id": "dbefe983-21f2-4877-9d6b-a0aefbd2952a",
+    "country_name": "Switzerland",
+    "iso2": "CH",
+    "iso3": "CHE",
+    "phone_code": "41",
+    "address_format": null,
+    "capital": "Berne",
+    "currency": "CHF"
+  },
+  {
+    "id": "76f6c125-a1d5-48b4-b017-75947bbd1ff7",
+    "country_name": "Syria",
+    "iso2": "SY",
+    "iso3": "SYR",
+    "phone_code": "963",
+    "address_format": null,
+    "capital": "Damascus",
+    "currency": "SYP"
+  },
+  {
+    "id": "5dcacb7a-c512-4323-b85a-9f93affa22d9",
+    "country_name": "Taiwan",
+    "iso2": "TW",
+    "iso3": "TWN",
+    "phone_code": "886",
+    "address_format": null,
+    "capital": "Taipei",
+    "currency": "TWD"
+  },
+  {
+    "id": "15c14d65-7728-45d8-947e-091c84c81767",
+    "country_name": "Tajikistan",
+    "iso2": "TJ",
+    "iso3": "TJK",
+    "phone_code": "992",
+    "address_format": null,
+    "capital": "Dushanbe",
+    "currency": "TJS"
+  },
+  {
+    "id": "a6342060-38c8-4deb-86c4-dd1296e85a36",
+    "country_name": "Tanzania",
+    "iso2": "TZ",
+    "iso3": "TZA",
+    "phone_code": "255",
+    "address_format": null,
+    "capital": "Dodoma",
+    "currency": "TZS"
+  },
+  {
+    "id": "1e4415fa-71ad-4ecd-bf2d-ba91202d79e1",
+    "country_name": "Thailand",
+    "iso2": "TH",
+    "iso3": "THA",
+    "phone_code": "66",
+    "address_format": null,
+    "capital": "Bangkok",
+    "currency": "THB"
+  },
+  {
+    "id": "457a8ab2-b7ae-4946-8c75-aac2f2a9acde",
+    "country_name": "Togo",
+    "iso2": "TG",
+    "iso3": "TGO",
+    "phone_code": "228",
+    "address_format": null,
+    "capital": "Lome",
+    "currency": "XOF"
+  },
+  {
+    "id": "7707226a-943a-4fca-a569-c7d4b7c8b1e0",
+    "country_name": "Tokelau",
+    "iso2": "TK",
+    "iso3": "TKL",
+    "phone_code": "690",
+    "address_format": null,
+    "capital": "",
+    "currency": "NZD"
+  },
+  {
+    "id": "9c2eb8c8-59e0-4038-a088-45c721223c9d",
+    "country_name": "Tonga",
+    "iso2": "TO",
+    "iso3": "TON",
+    "phone_code": "676",
+    "address_format": null,
+    "capital": "Nuku'alofa",
+    "currency": "TOP"
+  },
+  {
+    "id": "bfb482cc-f04b-4271-add3-0cd93df43b05",
+    "country_name": "Trinidad And Tobago",
+    "iso2": "TT",
+    "iso3": "TTO",
+    "phone_code": "+1-868",
+    "address_format": null,
+    "capital": "Port of Spain",
+    "currency": "TTD"
+  },
+  {
+    "id": "fb955957-5217-462b-a654-a42e2e3a1081",
+    "country_name": "Tunisia",
+    "iso2": "TN",
+    "iso3": "TUN",
+    "phone_code": "216",
+    "address_format": null,
+    "capital": "Tunis",
+    "currency": "TND"
+  },
+  {
+    "id": "15a6cab4-0b12-4d24-b51a-3e8b3c1a85cb",
+    "country_name": "Turkey",
+    "iso2": "TR",
+    "iso3": "TUR",
+    "phone_code": "90",
+    "address_format": null,
+    "capital": "Ankara",
+    "currency": "TRY"
+  },
+  {
+    "id": "4901d374-43aa-4047-9197-a3267ae86913",
+    "country_name": "Turkmenistan",
+    "iso2": "TM",
+    "iso3": "TKM",
+    "phone_code": "993",
+    "address_format": null,
+    "capital": "Ashgabat",
+    "currency": "TMT"
+  },
+  {
+    "id": "44f9ea27-ae60-4a4d-addf-bc68ef3884bc",
+    "country_name": "Turks And Caicos Islands",
+    "iso2": "TC",
+    "iso3": "TCA",
+    "phone_code": "+1-649",
+    "address_format": null,
+    "capital": "Cockburn Town",
+    "currency": "USD"
+  },
+  {
+    "id": "1da2d156-afeb-4ce9-bc0d-5608ac5297c7",
+    "country_name": "Tuvalu",
+    "iso2": "TV",
+    "iso3": "TUV",
+    "phone_code": "688",
+    "address_format": null,
+    "capital": "Funafuti",
+    "currency": "AUD"
+  },
+  {
+    "id": "5c28b4da-ee77-465c-9bbd-5650b8c94063",
+    "country_name": "Uganda",
+    "iso2": "UG",
+    "iso3": "UGA",
+    "phone_code": "256",
+    "address_format": null,
+    "capital": "Kampala",
+    "currency": "UGX"
+  },
+  {
+    "id": "adf87d84-e6ec-4cc9-bfe7-8e61bae4bb60",
+    "country_name": "Ukraine",
+    "iso2": "UA",
+    "iso3": "UKR",
+    "phone_code": "380",
+    "address_format": null,
+    "capital": "Kiev",
+    "currency": "UAH"
+  },
+  {
+    "id": "729ee6b6-97c9-4385-959d-b23c7c03f05a",
+    "country_name": "United Arab Emirates",
+    "iso2": "AE",
+    "iso3": "ARE",
+    "phone_code": "971",
+    "address_format": null,
+    "capital": "Abu Dhabi",
+    "currency": "AED"
+  },
+  {
+    "id": "93e8a08c-2862-4c93-ac1a-b6e67220031e",
+    "country_name": "United Kingdom",
+    "iso2": "GB",
+    "iso3": "GBR",
+    "phone_code": "44",
+    "address_format": null,
+    "capital": "London",
+    "currency": "GBP"
+  },
+  {
+    "id": "c9e37cfd-8fe5-4c72-bd64-bf7fbececc55",
+    "country_name": "United States",
+    "iso2": "US",
+    "iso3": "USA",
+    "phone_code": "1",
+    "address_format": null,
+    "capital": "Washington",
+    "currency": "USD"
+  },
+  {
+    "id": "5522cecf-219e-4b6f-9575-ad5e9d2bc9de",
+    "country_name": "United States Minor Outlying Islands",
+    "iso2": "UM",
+    "iso3": "UMI",
+    "phone_code": "1",
+    "address_format": null,
+    "capital": "",
+    "currency": "USD"
+  },
+  {
+    "id": "942bd043-1158-4530-80b2-487a3f783453",
+    "country_name": "Uruguay",
+    "iso2": "UY",
+    "iso3": "URY",
+    "phone_code": "598",
+    "address_format": null,
+    "capital": "Montevideo",
+    "currency": "UYU"
+  },
+  {
+    "id": "061ff3bf-97a8-47fb-95a6-4162e79c267e",
+    "country_name": "Uzbekistan",
+    "iso2": "UZ",
+    "iso3": "UZB",
+    "phone_code": "998",
+    "address_format": null,
+    "capital": "Tashkent",
+    "currency": "UZS"
+  },
+  {
+    "id": "c3e86aea-3146-4f83-a50a-270ddf678bad",
+    "country_name": "Vanuatu",
+    "iso2": "VU",
+    "iso3": "VUT",
+    "phone_code": "678",
+    "address_format": null,
+    "capital": "Port Vila",
+    "currency": "VUV"
+  },
+  {
+    "id": "4197aa87-a376-4f50-9348-4c8cc9b74ff7",
+    "country_name": "Vatican City State (Holy See)",
+    "iso2": "VA",
+    "iso3": "VAT",
+    "phone_code": "379",
+    "address_format": null,
+    "capital": "Vatican City",
+    "currency": "EUR"
+  },
+  {
+    "id": "68c8209b-c3ca-43ee-ae0c-3a0cdfa57ac0",
+    "country_name": "Venezuela",
+    "iso2": "VE",
+    "iso3": "VEN",
+    "phone_code": "58",
+    "address_format": null,
+    "capital": "Caracas",
+    "currency": "VEF"
+  },
+  {
+    "id": "4bd3314a-52b0-4406-b1e9-1c6fba7b4284",
+    "country_name": "Vietnam",
+    "iso2": "VN",
+    "iso3": "VNM",
+    "phone_code": "84",
+    "address_format": null,
+    "capital": "Hanoi",
+    "currency": "VND"
+  },
+  {
+    "id": "fb07ba30-9bfa-4923-bd1c-1d792ebf24cd",
+    "country_name": "Virgin Islands (British)",
+    "iso2": "VG",
+    "iso3": "VGB",
+    "phone_code": "+1-284",
+    "address_format": null,
+    "capital": "Road Town",
+    "currency": "USD"
+  },
+  {
+    "id": "ae55922d-b3b2-4cbf-b2e1-b94342498271",
+    "country_name": "Virgin Islands (US)",
+    "iso2": "VI",
+    "iso3": "VIR",
+    "phone_code": "+1-340",
+    "address_format": null,
+    "capital": "Charlotte Amalie",
+    "currency": "USD"
+  },
+  {
+    "id": "fd205fc1-3122-47cb-8ef2-7599743d770c",
+    "country_name": "Wallis And Futuna Islands",
+    "iso2": "WF",
+    "iso3": "WLF",
+    "phone_code": "681",
+    "address_format": null,
+    "capital": "Mata Utu",
+    "currency": "XPF"
+  },
+  {
+    "id": "26d938c2-9760-4085-8d6e-a69408d5cc8f",
+    "country_name": "Western Sahara",
+    "iso2": "EH",
+    "iso3": "ESH",
+    "phone_code": "212",
+    "address_format": null,
+    "capital": "El-Aaiun",
+    "currency": "MAD"
+  },
+  {
+    "id": "f83f36a8-9abb-45c6-b3f7-9bcf95cb6dde",
+    "country_name": "Yemen",
+    "iso2": "YE",
+    "iso3": "YEM",
+    "phone_code": "967",
+    "address_format": null,
+    "capital": "Sanaa",
+    "currency": "YER"
+  },
+  {
+    "id": "d6ec44cb-64ab-41e8-8f8a-660f82fa87e9",
+    "country_name": "Zambia",
+    "iso2": "ZM",
+    "iso3": "ZMB",
+    "phone_code": "260",
+    "address_format": null,
+    "capital": "Lusaka",
+    "currency": "ZMK"
+  },
+  {
+    "id": "74e442af-4143-477a-bf7e-136e265e088c",
+    "country_name": "Zimbabwe",
+    "iso2": "ZW",
+    "iso3": "ZWE",
+    "phone_code": "263",
+    "address_format": null,
+    "capital": "Harare",
+    "currency": "ZWL"
+  }
+]
