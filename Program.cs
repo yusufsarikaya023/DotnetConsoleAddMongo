@@ -36,6 +36,6 @@ using var serviceScope = host.Services.CreateScope();
 var serviceProvider = serviceScope.ServiceProvider;
 
 Factory factory = new(serviceProvider);
-// var result = factory.RemoveAllCountry();
-var result = factory.CreateCountry();
-Console.WriteLine(result);
+// factory.RemoveAllCountry();
+// factory.CreateCountry();
+factory.CreateCountries();

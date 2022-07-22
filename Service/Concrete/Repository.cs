@@ -13,10 +13,17 @@ public class Repository<T> : RepositoryBase<T>, IRepository<T>
     {
     }
 
-    public T Add(T entity)
+    public virtual T Add(T entity)
     {
         Collection.InsertOne(entity);
         return entity;
+    }
+
+    public T[] AddRange(T[] entities)
+    {
+        Collection.InsertMany(entities);
+        Console.WriteLine("Inserted Range");
+        return entities;
     }
 
     public void RemoveAll()

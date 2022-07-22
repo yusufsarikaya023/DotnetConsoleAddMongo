@@ -12,7 +12,7 @@ public class Factory
         this.countryService = serviceProvider.GetRequiredService<ICountryService>();
     }
 
-    public string CreateCountry()
+    public void CreateCountry()
     {
         using (var reader = new StreamReader(@"./lib/country.json"))
         {
@@ -24,11 +24,23 @@ public class Factory
                 countries.ForEach(x => countryService.Add(x));
             }
         }
-        return "Country added";
     }
-    public string RemoveAllCountry()
+    public void RemoveAllCountry()
     {
         countryService.RemoveAll();
-        return "All country removed";
+    }
+
+    public void CreateCountries()
+    {
+        using (var reader = new StreamReader(@"./lib/country.json"))
+        {
+            ICountryService countryService = serviceProvider.GetRequiredService<ICountryService>();
+            while (!reader.EndOfStream)
+            {
+                var countriesJson = reader.ReadToEnd();
+                List<Country> countries = JsonConvert.DeserializeObject<List<Country>>(countriesJson)!;
+                countryService.AddRange(countries.ToArray());
+            }
+        }
     }
 }

@@ -4,4 +4,6 @@ public interface IRepository<T>
 {
     T Add(T entity);
     void RemoveAll();
+
+    T[] AddRange(T[] entities);
 }

@@ -1,12 +1,15 @@
+using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
 using Newtonsoft.Json;
 
 public class Country
 {
     [BsonElement("id")]
+    [BsonId]
     public Guid Id { get; set; }
 
     [BsonElement("countryName")]
+    [JsonProperty("country_name")]
     public string CountryName { get; set; } = string.Empty;
 
     [BsonElement("iso2")]
