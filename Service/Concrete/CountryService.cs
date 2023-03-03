@@ -5,7 +5,7 @@ using MongoDB.Driver;
 
 namespace DotnetConsoleAddMongo.Service.Concrete;
 
-public class CountryService : Repository<Country>, ICountryService
+public class CountryService : Repository<City>, ICountryService
 {
     public CountryService(IConnection connection) : base(connection)
     {
