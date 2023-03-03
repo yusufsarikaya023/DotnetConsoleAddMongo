@@ -14,14 +14,14 @@ public class Factory
 
     public void CreateCountry()
     {
-        using (var reader = new StreamReader(@"./lib/country.json"))
+        using (var reader = new StreamReader(@"./lib/city.json"))
         {
             ICountryService countryService = serviceProvider.GetRequiredService<ICountryService>();
             while (!reader.EndOfStream)
             {
                 var countriesJson = reader.ReadToEnd();
                 List<City> countries = JsonConvert.DeserializeObject<List<City>>(countriesJson)!;
-                countryService.AddRange(countries.ToArray());
+                countries.ForEach(x => countryService.Add(x));
             }
         }
     }
@@ -38,7 +38,7 @@ public class Factory
             while (!reader.EndOfStream)
             {
                 var countriesJson = reader.ReadToEnd();
-                List<Country> countries = JsonConvert.DeserializeObject<List<Country>>(countriesJson)!;
+                List<City> countries = JsonConvert.DeserializeObject<List<City>>(countriesJson)!;
                 countryService.AddRange(countries.ToArray());
             }
         }
